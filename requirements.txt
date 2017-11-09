@@ -1,0 +1,4 @@
+Flask
+Flask_RESTful
+requests
+websocket-client
